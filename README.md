@@ -1,4 +1,4 @@
-# FlowerDrawingNeuralNetwork
+# Flower Drawing Classification Neural Network
 Forming an image of a flower using red and blue dots classified using a neural network
 
 The Neural network is a 2-class classification consisting of one hidden layer.
